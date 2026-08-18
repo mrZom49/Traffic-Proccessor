@@ -7,6 +7,10 @@
 
 ---
 
+This is a personal fork of the [main project](https://github.com/SWP-Team-46/Traffic-Proccessor) that explores a different direction. Instead of scanning a container with a container, it is a container that scans the machines whole network
+
+---
+
 ## Access the Product
 
 The easiest way to try the current version is to run the fully containerised stack:
