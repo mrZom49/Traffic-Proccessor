@@ -7,9 +7,14 @@
 
 ---
 
+## Fork changes
+
 This is a personal fork of the [main project](https://github.com/SWP-Team-46/Traffic-Proccessor) that explores a different direction. Instead of scanning a container with a container, it is a container that scans the machines whole network
 
----
+- [Documentation](/docs) will not be maintained or updated
+- No new [reports](/reports) will be made
+- Project will no longer follow AGILE and no deadlines will be set
+- *Other changes here*
 
 ## Access the Product
 
